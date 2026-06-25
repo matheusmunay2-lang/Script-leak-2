@@ -1,0 +1,8 @@
+to the scripts work u must use Gelatek Reanimate
+
+enable the following stuffs before reanimst
+permadeath
+no aniamtions
+
+script gui
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gelatekussy/GelatekHub/main/Main.lua"))()
